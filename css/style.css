@@ -1,0 +1,51 @@
+.card1{
+    box-shadow: 0 0 20px -7px;
+}
+.card1:hover{
+    transform: scale(1.02);
+    transition: 0.3s;
+    box-shadow: 0 0 30px -7;
+}
+.card2{
+    background: none;
+    border: none;
+}
+.card2 h5{
+    font-size: 70px;
+}
+.tepa{
+    box-shadow: 0 1px 50px gray;
+    height: 65px;
+}
+.card3{
+    background: none;
+    border: none;
+    text-align: center;
+    transition: 0.2s;
+}
+.font{
+    font-size: 50px; 
+    color: orange;
+}
+.card3:hover{
+    transform: translateY(5px);
+    transition: 0.3s;
+}
+.card3:hover .font{
+    color: black;
+    transition: 0.2s;
+}
+.card4{
+    background: none;
+    border: none;
+}
+.link{
+    color: white;
+    display: block;
+}
+.link:hover{
+    color: orange;
+}
+.sarlavha{
+    font-size: 70px;
+}
