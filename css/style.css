@@ -1,3 +1,6 @@
+body{
+    overflow-x: hidden;
+}
 .card1{
     box-shadow: 0 0 20px -7px;
 }
